@@ -1,2 +1,3 @@
 # 03_12.e_Sz1
-Szakmai vizsga előkészítésére 12.osztály tananyagából
+03 csapat - Szabó Domán, Kiss Balázs
+Csapat vezetője: Balázs
